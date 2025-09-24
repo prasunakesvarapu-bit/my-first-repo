@@ -1,0 +1,3 @@
+Name: Jnana Prasuna Sai Lakshmi 
+Course: BCA
+Learning about GitHub: I learn about creating a account in GitHub and crate a new repository and adding a new files and updating a new files
